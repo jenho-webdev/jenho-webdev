@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jenho-webdev
 - 👀 I’m interested in all things about technology, IoT, photography, UI/UX design, automations and many more.
-- 🌱 I’m currently learning ... all things about font-end web development, Cyber Security and Web3.
+- 🌱 I’m currently learning ... all things about full stack web development, Cyber Security and Web3.
 - 💞️ I’m looking to collaborate on ... any web development projects, Salesforce Dev, Cyber Security. 
 - 📫 How to reach me ...
   - [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/jen-h-202a1723/)
